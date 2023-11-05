@@ -9,10 +9,7 @@ Bu repo [Kodluyoruz](http://kodluyoruz.org) Front-End eğitiminde oluşturduğum
 ```
 git clone https://github.com/SinanSenkul/kodluyoruzilkrepo.git
 ```
-
-İçeriklerimizi geliştirmemize yardım etmek mi istiyorsun? Bunu yapmak çok basit. Buradan içerik oluşturma şablonumuzu inceleyebilirsin ve sen de önerdiğin içerikleri bize *Pull Request* yaparak gönderebilirsin. Ardından içerikler takımımız tarafından incelenecek ve eğer onaylanırsa branch'e eklenecek! (Buradan *Pull Request nasıl yapılır?* yazımıza göz atabilirsin.)
-
-**Elbette destek olmanın başka yolları da var!**
+**Usage**
 
 İçerik oluşturacak zamanın veya teknik bilgin olmayabilir. Ama içeriklerimizi okurken bizimle gözümüzden kaçan detayları paylaşabilirsin bunun için **Öneri veya sorun bildir** başlığına göz at! 
 
