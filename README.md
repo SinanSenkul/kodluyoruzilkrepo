@@ -26,4 +26,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 [MIT](https://github.com/SinanSenkul/kodluyoruzilkrepo/blob/master/LICENSE)
 
-![Github](https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png)  
+![Github](https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png "project image")  
